@@ -13,7 +13,7 @@ matplotlib
 sklearn
 
 ## **Built With**
-Google Colab
+Google Colab — cloud-based environment for running Jupyter notebooks
 
 ## **Author**
 Shirin Yousaf
